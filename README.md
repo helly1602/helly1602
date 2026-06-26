@@ -3,7 +3,7 @@
 🎯 Data Engineer | MS Business Analytics | Building scalable data pipelines
 
 ## 👩‍💻 About Me
-- 🔧 4+ years of experience in Data Engineering & Analytics
+- 🔧 3+ years of experience in Data Engineering & Analytics
 - 🎓 MS in Business Analytics — Sacred Heart University (2025)
 - 🌍 Based in Connecticut, USA
 - 💡 Passionate about turning raw data into actionable insights
